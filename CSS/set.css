@@ -1,0 +1,26 @@
+/**
+ *  Author: @cynpy
+ *  https://github.com/cyncyncyn
+ *  License: GPL v3
+ *  2009
+ *  
+ **/
+
+body{font-family: Georgia,'Times New Roman', Serif; background: #e4d6ea  url('../img/fondo.png') repeat-x;}
+
+div#contenedor{margin:0 auto ; width:960px;  position:relative; }
+	h1{position:relative; left:70px;height:197px; width:282px; background:transparent url('../img/h1.back.png') no-repeat; text-indent:-5000px; overflow:hidden;}
+
+div#cartas{ width:560px; padding:30px 60px 60px 60px;  position:relative;  border:solid 1px #fff; background-color:#C9AED6; margin-top:20px;}
+	div#cartas img{width:90px; height:125px;}
+div#tiempo{width:95px; height:72px;border:solid 1px #fff; position:absolute; right:75px; color:#126710; font-size:40px; text-align:center; background:#C9AED6 url('../img/tiempo.back.png') no-repeat center center; color:#000;font-weight:bold; padding-top:15px;}
+div#puntos{ font-size:30px; padding-bottom:30px; }
+div#status{font-size:30px; text-align:center; width:680px; color:#6B0CAF}
+div#agregar{ font-family:inherit; color:#6B0CAF; font-weight:bold; font-size:14px; text-align:center;}
+	
+div#arriba{margin:auto; text-align:center; top:330px;left:-40px; width:776px;height:200px;position:absolute; }
+div#right{position:absolute; right:0; top:301px; width:200px; height:285px; border:solid 1px #fff;padding:30px 10px 30px 30px; background:white; border: 1px solid #6B0CAF; }
+div#right img {padding-bottom:10px;}
+
+	
+	
