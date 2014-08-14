@@ -29,9 +29,9 @@ I'm just a card :-)
 class Card(object) :
 
     forms = {'oval', 'diamond', 'squiggle'} # See Set(game) at Wikipedia (English)
-    num = {1,2,3}
-    color = {'green', 'red', 'purple'}
-    fill = { 'solid', 'striped', 'open'}
+    nums = {1,2,3}
+    colors = {'green', 'red', 'purple'}
+    fills = { 'solid', 'striped', 'open'}
 
     def __init__(self, form, color, num, fill) :
         self.__fill = fill
